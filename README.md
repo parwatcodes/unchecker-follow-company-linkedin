@@ -22,10 +22,4 @@ This Chrome extension unchecks the follow company checkbox during the Easy Apply
 4.	Click Load unpacked and select the cloned folder.
 
 ## Screenshots
-Pic 1: Extension enabled
-<img width="190" alt="Screenshot 2025-01-11 at 3 29 25 AM" src="https://github.com/user-attachments/assets/b9a181b2-243e-48b9-a5ca-d8f808fa13ca" />
-
------
-
-Pic 2: Unchecked
-<img width="807" alt="Screenshot 2025-01-11 at 3 29 15 AM" src="https://github.com/user-attachments/assets/c63fbe95-b73a-46a2-a45f-77f717391101" />
+<img width="807" alt="Screenshot 2025-01-11 at 3 29 15 AM" src="https://github.com/user-attachments/assets/a3a3a179-dd19-4b95-8333-d6fc04d9e6ab" />
