@@ -25,7 +25,7 @@ This Chrome extension unchecks the follow company checkbox during the Easy Apply
 
 If you have any suggestions, find any issues, or want to request new features, feel free to contribute! Here's how you can get involved:
 
-1. **Report Issues**: Found a bug? [Create an issue]([link-to-issues-page](https://github.com/parwatcodes/unchecker-follow-company-linkedin/issues/new)) and describe the problem.
+1. **Report Issues**: Found a bug? [Create an issue](https://github.com/parwatcodes/unchecker-follow-company-linkedin/issues/new) and describe the problem.
 2. **Suggest Features**: Have a great idea? Open a feature request in the issues tab.
 3. **Make Changes**: Want to contribute directly? Fork the repository, make your changes, and open a pull request. Make sure to explain the changes you made.
 
